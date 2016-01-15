@@ -1,3 +1,27 @@
+commit ae7380ab2f6f1bbcdb72d93ffb092028136647fb
+Author: Juan Esquivias <jesquivias@mediaignite.net>
+Date:   Fri Jan 15 16:13:12 2016 -0500
+
+    cambio de texto a minusculas en css, elimina comentarios en index
+
+commit b39c3f7875ef8af3b034f7826a55418fb6bc0df3
+Author: Juan Esquivias <jesquivias@mediaignite.net>
+Date:   Fri Jan 15 15:31:25 2016 -0500
+
+    se elimina la red social en el index
+
+commit 24229fc4dabae020c9bb7f5cd05212be2772d280
+Author: Juan Esquivias <jesquivias@mediaignite.net>
+Date:   Fri Jan 15 11:50:12 2016 -0500
+
+    se modifica transition de boton en css a 1.1
+
+commit 39204a1c657c71a6e2d0d023951a239f6ddbacc4
+Author: Juan Esquivias <jesquivias@mediaignite.net>
+Date:   Fri Jan 15 11:41:51 2016 -0500
+
+    se aumenta un icono de red social con su contenido
+
 commit 5d5649977205292c0d68a8f1f05238a420a3c2f2
 Author: Juan Esquivias <jesquivias@mediaignite.net>
 Date:   Fri Jan 15 10:08:01 2016 -0500
