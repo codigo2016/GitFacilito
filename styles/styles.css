@@ -51,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .info-2{
-    background-color: #2196F3;
+    background-color: #666;
     color: white;
     padding: 40px;
 }
@@ -73,7 +73,7 @@ h1,h2,h3,h4,h5,h6{
     list-style: decimal inside;
     font-size: 3em;
     padding: 0.4em;
-    background-color: #2196F3;
+    background-color: #009966;
     margin: 20px 0;
 }
 
@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 50px;
     border-radius: 30px;
-    border: 2px solid #FF5722;
+    border: 2px dashed #FF5722;
     background-color: transparent;
     color: white;
     font-weight: 600;
